@@ -1,1 +1,1 @@
-# rsschool-cv
+https://ntktgepbr2.github.io/rsschool-cv/cv

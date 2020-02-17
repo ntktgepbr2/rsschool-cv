@@ -21,7 +21,7 @@ My main objective for now is to use the chance this school is providing to me.I 
  * Git.
 
 ## Code example:
-
+ 
 ```javascript
 
 let page = document.querySelector('.page');

@@ -13,7 +13,7 @@
 My main objective for now is to use the chance this school is providing to me.I started to learn HTML/CSS/JS by myself  and now i eager to join this course and sucsessfully finish it.It's new industry to me,but i really like it and interested in.
 
 ## Skills:
-
+ 
  * HTML/CSS.
 
  * JS basics.

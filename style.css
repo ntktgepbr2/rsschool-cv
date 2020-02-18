@@ -1,3 +1,64 @@
-h1 {
-    color: green;
+body {
+    margin: 0;
+    font-family: "Helvetica", "Arial", sans-serif;
+    font-size: 18;
+}
+
+header .container {
+    background-color: #eee;
+    width: 50%;
+}
+
+.container {
+    width: 50%;
+    height: 100%;
+    max-width: 1024px;
+    padding: 10px;
+    margin: 0 auto;
+}
+
+main .container {
+    background-color: seashell;
+}
+
+a {
+    color: steelblue;
+    text-decoration: none;
+}
+
+p {}
+
+img {
+    border-radius: 40%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+section {
+    margin-top: 10px;
+}
+
+span {
+    color: red;
+}
+
+.avatar {
+    float: left;
+    width: 370px;
+}
+
+.container:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.contacts {
+    float: right;
+    width: 50%;
+    font-size: 20px;
+}
+
+footer .container {
+    background-color: #eee;
+    text-align: center;
 }
